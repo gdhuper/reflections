@@ -37,3 +37,5 @@ having history of the files can help me become an efficient programmer in the lo
 - cons on the other hand are that you have to make decision by yourself to commit or not.
 right nowi just want to run into a wall and hit my head in there but i 
 am pretty sure that the time i am spending right will pay off in future to come. 
+
+staginig area kinda gives you the idea wha files we are about to commit
