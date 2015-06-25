@@ -1,0 +1,3 @@
+staging are gives you idea what changes we are going to commit before we can finally commit them. 
+
+it is helpful as we dont wanna commit unreasonanle changes to the repository because that will make it so big and confusing
